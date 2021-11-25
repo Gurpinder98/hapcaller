@@ -8,12 +8,12 @@ from scipy.spatial.distance import squareform
 import matplotlib.pyplot as plt
 import os
 
-GFF_File = 'Brassica_napus.AST_PRJEB5043_v1.44.sorted.gff3'
-VCF_FILE = 'raw.g5mac3dplm.recode.vcf'
-SAMPLE_NAMES_FILE = 'sample_names.txt'
+GFF_File = '/Users/sidhug/Desktop/Haplotype_project/large_datasets/Brassica_napus.AST_PRJEB5043_v1.44.sorted.gff3'
+VCF_FILE = '/Users/sidhug/Desktop/Haplotype_project/large_datasets/raw.g5mac3dplm.recode.vcf'
+SAMPLE_NAMES_FILE = '/Users/sidhug/Desktop/Haplotype_project/large_datasets/sample_names.txt'
 
-GENE_TO_LOOK = ['BnaA02g00370D', 'BnaA03g02820D', 'BnaA03g13630D', 'BnaA10g22080D', 'BnaC02g00490D', 'BnaC03g04170D', 'BnaC03g16530D', 'BnaC09g46500D', 'BnaC09g46540D', 'BnaA02g06490D', 'BnaA04g15260D', 'BnaC04g53290D', 'BnaC04g53290D', 'BnaC04g53290D', 'BnaA05g05010D', 'BnaCnng45490D', 'BnaAnng19140D', 'BnaA03g37880D', 'BnaA03g39820D', 'BnaA06g24000D', 'BnaA04g13710D']
-#GENE_TO_LOOK = ['BnaC02g00490D']
+#GENE_TO_LOOK = ['BnaA02g00370D', 'BnaA03g02820D', 'BnaA03g13630D', 'BnaA10g22080D', 'BnaC02g00490D', 'BnaC03g04170D', 'BnaC03g16530D', 'BnaC09g46500D', 'BnaC09g46540D', 'BnaA02g06490D', 'BnaA04g15260D', 'BnaC04g53290D', 'BnaC04g53290D', 'BnaC04g53290D', 'BnaA05g05010D', 'BnaCnng45490D', 'BnaAnng19140D', 'BnaA03g37880D', 'BnaA03g39820D', 'BnaA06g24000D', 'BnaA04g13710D']
+GENE_TO_LOOK = ['BnaC02g00490D']
 
 def gff_parse(gff_file, genes_to_look):
     
@@ -188,7 +188,7 @@ def distance_calculator(seqA_array, seqB_array):
     return (difference0 + difference1)/2
 
 
-def distance_calculator_eu(seqA_array, seqB_array):
+def distance_calculator_eu(seqA_array, seqB_array, NA='5'):
     """
     Return distance between two loci based on two set of allele patterns
 
@@ -214,6 +214,12 @@ def distance_calculator_eu(seqA_array, seqB_array):
     except:
         AssertionError
         print("Sequence length mismatch.")
+
+    for i, seq in enumerate(seqA_array):
+        seqA_array = seq.replace('.', NA)
+    for i, seq in enumerate(seqB_array):
+        seqB_array = seq.replace('.', NA)
+
     vectorA_1 = np.array([int(i) for i in seqA_array[0]], dtype=int)
     vectorA_2 = np.array([int(i) for i in seqA_array[1]], dtype=int)
 
@@ -290,7 +296,19 @@ def create_dendrogram(linkage_matrix, gene, sample_line_names, output_file_name=
     plt.title(gene)
     plt.savefig(output_file_name, dpi=300)
     
-#def cut_off_input_file()
+def output_allele_patterns(final_data, gene, sample_names_dict, output_file_name=None):
+    if output_file_name == None:
+        output_file_name = gene+"_patterns.txt"
+    else:
+        output_file_name = os.path.join(output_file_name, gene+"_patterns.txt")
+
+    with open(output_file_name, 'w') as out_f:
+        for sample in final_data[gene]:
+            haplotype1 = final_data[gene][sample][1]
+            haplotype2 = final_data[gene][sample][2]
+
+            to_write = sample_names_dict[sample] + ":" +' '*(30-len(sample_names_dict[sample] + ":")) + final_data[gene][sample][1] +"\n"+ ' '*30+ final_data[gene][sample][2] +"\n" + "\n"
+            out_f.write(to_write)
 
 
     
@@ -317,10 +335,10 @@ def main():
 
         for vertical in range(Distance_Matrix.shape[0]):
             for horizontal in range(Distance_Matrix.shape[1]):
-                Distance_Matrix[vertical][horizontal] = distance_calculator(final_data[bna_gene][samples[vertical]][1:],final_data[bna_gene][samples[horizontal]][1:])
+                Distance_Matrix[vertical][horizontal] = distance_calculator_eu(final_data[bna_gene][samples[vertical]][1:],final_data[bna_gene][samples[horizontal]][1:])
 
         dists = squareform(Distance_Matrix)
-        linkage_matrix = linkage(dists, "single")
+        linkage_matrix = linkage(dists, 'single')
         
         
         
@@ -331,11 +349,16 @@ def main():
             
         supplementary_output(final_data, bna_gene,sample_names_dict, os.path.join('Haplotypes', bna_gene))
         create_dendrogram(linkage_matrix, bna_gene, sample_line_names, os.path.join('Haplotypes', bna_gene))
+        output_allele_patterns(final_data, bna_gene,sample_names_dict, os.path.join('Haplotypes', bna_gene))
         print("Finished gene {}\n".format(bna_gene))
         
     print("Dendrograms created. Provide the desired cut off values.\n")
-    input("Program paused. Press any key to continue..")
+    #input("Program paused. Press any key to continue..")
         
         
         
-    return final_data, Genes, linkage_matrix, sample_line_names, Distance_Matrix
+    #return final_data, Genes, linkage_matrix, sample_line_names, Distance_Matrix
+
+if __name__ == '__main__':
+    main()
+
