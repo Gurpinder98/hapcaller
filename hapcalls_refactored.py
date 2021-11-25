@@ -188,6 +188,44 @@ def distance_calculator(seqA_array, seqB_array):
     return (difference0 + difference1)/2
 
 
+def distance_calculator_eu(seqA_array, seqB_array):
+    """
+    Return distance between two loci based on two set of allele patterns
+
+    Parameters
+    ----------
+    seqA_array : List of two strings
+        eg. ['101001', '101101']
+    seqB_array : List of two strings
+        eg. ['101001', '101101']
+        
+
+    Returns
+    -------
+    float
+        distance between two samples, averaged. 
+        Scoring scheme: +1 if both allele patterns differ
+                        +0.5 if only one is different 
+                         
+    """
+    try:
+        assert len(seqA_array[0]) == len(seqB_array[0])
+        assert len(seqA_array[1]) == len(seqB_array[1])
+    except:
+        AssertionError
+        print("Sequence length mismatch.")
+    vectorA_1 = np.array([int(i) for i in seqA_array[0]], dtype=int)
+    vectorA_2 = np.array([int(i) for i in seqA_array[1]], dtype=int)
+
+    vectorB_1 = np.array([int(i) for i in seqB_array[0]], dtype=int)
+    vectorB_2 = np.array([int(i) for i in seqB_array[1]], dtype=int)
+    
+    eu_dist_1 = int(np.sqrt(np.sum(np.square(vectorA_1 - vectorB_1))))
+    eu_dist_2 = int(np.sqrt(np.sum(np.square(vectorA_2 - vectorB_2))))
+    
+    return eu_dist_1 + eu_dist_2
+
+
 def supplementary_output(final_data, gene, sample_names_dict, output_file_name = None):
     if output_file_name == None:
         output_file_name = gene+"_haps.csv"
