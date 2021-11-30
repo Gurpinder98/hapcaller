@@ -309,8 +309,7 @@ def output_allele_patterns(final_data, gene, sample_names_dict, output_file_name
 
             to_write = sample_names_dict[sample] + ":" +' '*(30-len(sample_names_dict[sample] + ":")) + final_data[gene][sample][1] +"\n"+ ' '*30+ final_data[gene][sample][2] +"\n" + "\n"
             out_f.write(to_write)
-
-
+          
     
 def main():
     Genes, num_genes_found = gff_parse(GFF_File, GENE_TO_LOOK)
@@ -335,7 +334,7 @@ def main():
 
         for vertical in range(Distance_Matrix.shape[0]):
             for horizontal in range(Distance_Matrix.shape[1]):
-                Distance_Matrix[vertical][horizontal] = distance_calculator_eu(final_data[bna_gene][samples[vertical]][1:],final_data[bna_gene][samples[horizontal]][1:])
+                Distance_Matrix[vertical][horizontal] = distance_calculator(final_data[bna_gene][samples[vertical]][1:],final_data[bna_gene][samples[horizontal]][1:])
 
         dists = squareform(Distance_Matrix)
         linkage_matrix = linkage(dists, 'single')
@@ -357,8 +356,8 @@ def main():
         
         
         
-    #return final_data, Genes, linkage_matrix, sample_line_names, Distance_Matrix
+    return final_data, Distance_Matrix
 
 if __name__ == '__main__':
-    main()
+    F, D = main()
 
