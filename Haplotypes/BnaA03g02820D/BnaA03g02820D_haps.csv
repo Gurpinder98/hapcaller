@@ -1,0 +1,281 @@
+ , ,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815,LK031815
+POS, ,468967,469051,469072,469190,469246,469459,469466,469471,469635,469667,469711,469830,469884,469923,469972,469980,469998,470008,470015,470104,470166,470284,470312,470333,470348,470441,470544,470550,470568,470610,470640,470656,470682,470761,470787,470840,470890,470908,470965,471039,471080,471143,471176,471232,471241,471473,471599,471736,471759,471763,472005,472011
+TYPE, ,snp,snp;complex,snp,complex,ins,snp,snp,snp,snp,del,del,del,snp,snp,snp,complex,ins,snp,snp,snp,snp,snp,snp,complex,snp,snp,del,del;snp,snp,snp;complex,snp,snp,snp,snp,snp,snp,ins,snp,del,snp,snp,del,snp,snp,snp,snp,snp,del,snp,snp,snp,complex
+REF, ,C,GAAGAACACACAAG,G,AGA,ATTTTTTAATTTG,T,C,A,T,ATCTATTATTCTATTATA,AGTGTATATGT,GACAACAT,A,T,G,CAAATATTTTGA,CAACACG,G,C,G,C,T,C,GAAAAATAG,T,G,TCCTA,ATCT,A,TAAGG,A,A,A,T,G,C,AAAAAACAATT,C,GAAACAT,A,T,TTGT,A,T,T,A,C,TAGAAGAAC,A,T,A,TTA
+
+Xiangyou 15,SL446907,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,-,-,C,T,-,TAGAAC,-,-,-,-
+
+Temple,SL446904,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Rocket,SL446902,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Palmedor,SL446899,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,TT,-,-,C,T,-,-,-,C,-,-
+
+Huron x Navajo,SL446896,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Couve Nabica,SL446842,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Cabriolet,SL446888,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Taisetsu,SL446837,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+Tribune,SL446876,T,AAAGAACACACAAG,A,TGC,*,A,*,G,*,*,*,GACAT,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,A,ATCTATTATA,AT,-,-,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,-,-,-,-,-
+
+"POH 285, Bolko",SL446900,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+English Giant,SL446836,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Zhongshuang II,SL446908,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,TT,-,-,C,T,-,-,-,C,-,-
+
+Topas,SL446875,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Vision,SL446905,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Ragged Jack,SL446843,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Ningyou 7,SL446898,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,TT,-,-,C,T,-,-,-,C,-,-
+
+Chembre Dzagumhana,SL446841,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Q100,SL446838,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dippes,SL446826,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Slovenska Krajova,SL446831,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Coriander,SL446825,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,-,CAAACACG,A,T,-,A,G,T,GGAAAAAAG,G,-,-,-,T,CAAGG,C,-,-,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,-,T,-,TAGAAC,-,-,-,-
+
+Aphid Resistant rape,SL446834,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+KARAT,SL446857,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,TAGAAC,-,C,-,-
+
+YORK,SL446887,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,GACAT,-,A,-,T,-,-,-,T,TAGAAC,G,-,G,CTT
+
+RAFAL DH1,SL446813,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Eurol,SL446815,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Brauner schnittkohl,SL446839,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+WESTAR DH,SL446855,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+WEIHENSTEPHANER,SL446869,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Kromerska,SL446827,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Drakkar,SL446853,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Excalibur,SL446893,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+CANBERRA x COURAGE DH LINE,SL446810,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,ATTTTTTTAATTTG,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,TAGAAC,-,C,-,-
+
+Chuanyou 2,SL446891,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+SHANNON x WINNER DH LINE,SL446819,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dwarf Essex,SL446835,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Wilhelmsburger; Reform,SL446885,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+N02D-1952,SL446861,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,ATTTTTTTAATTTG,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+APEX-93_5 X GINYOU_3 DH LINE,SL446808,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,TT,-,-,C,T,-,-,-,C,-,-
+
+LEMBKES MALCHOWER (LENORA),SL446821,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Flash,SL446894,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,TAGAAC,-,C,-,-
+
+SURPASS400-024DH,SL446863,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Samourai,SL446823,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+Ceska Krajova,SL446872,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+LICROWN X EXPRESS DH LINE,SL446817,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+MAZOWIECKI,SL446867,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+MADRIGAL x RECITAL DH LINE,SL446812,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Norin,SL446822,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,-,-,-,-,TAGAAC,-,C,-,-
+
+TAPIDOR DH,SL446814,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,-,-,C,T,-,TAGAAC,-,-,-,-
+
+Slapska Slapy,SL446845,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Tina,SL446883,T,AAAGAACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,*,A,G,T,GGAAAAAAG,G,*,*,*,T,*,*,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,A,TCTA,AT,-,CAAGG,C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Moana rape,SL446833,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+HANSEN X GASPARD DH LINE,SL446811,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Baltia,SL446824,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,-,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,GACAT,T,A,TT,-,-,C,T,T,-,G,C,G,CTT
+
+TANTAL,SL446868,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Siberische boerenkool,SL446844,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+JAUNE A COLLET VERT,SL446879,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,-,-,-,-,-,-,-,G,T,-,-,-,-,-,-,CAAGG,C,-,-,-,C,T,AGAAAAACAATT,A,GACAT,-,A,-,-,-,-,-,T,-,G,-,G,CTT
+
+GROENE GRONINGER SNIJMOES,SL446847,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+JANETZKIS SCHLESISCHER,SL446820,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+MONTY-028DH,SL446859,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+RAPID CYCLING RAPE (CrGC5),SL446848,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+SWU Chinese 1,SL446849,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+Ramses,SL446830,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+SWU Chinese 2,SL446850,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+ERGLU,SL446865,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Inca x Contact,SL446897,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+KAROO-057DH,SL446858,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,ATTTTTTTAATTTG,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Castille,SL446889,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Canard,SL446832,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,*,*,*,TCTA,AT,T,CAAGG,C,*,*,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,GGAAAAAAG,G,-,-,GTCT,-,CAAGT,-,T,C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Zhouyou,SL446852,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,GACAT,T,A,-,-,-,C,T,T,-,G,-,G,CTT
+
+STELLAR DH,SL446854,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,ATTTTTTTAATTTG,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+CRESOR,SL446856,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGACACACAAG,A,TGC,-,A,A,G,A,ATCTATTATA,AT,-,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,TT,-,-,C,T,-,-,-,C,-,-
+
+N01D-1330,SL446860,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+CUBS ROOT,SL446864,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+Bienvenu,SL446809,T,AAAGACACACAAG,A,TGC,*,A,A,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,A,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Abukame Natane,SL446846,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+HELIOS,SL446866,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,TAGAAC,-,C,-,-
+
+Liho,SL446870,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Bronowski,SL446871,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,-,-,-,-,-
+
+SENSATION NZ,SL446881,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,GACAT,T,A,*,*,*,C,T,T,*,G,*,G,CTT
+ , ,-,-,-,TGC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Lesira,SL446816,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+Altasweet,SL446882,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,GACAT,-,A,-,T,-,-,-,T,TAGAAC,G,-,G,CTT
+
+Duplo,SL446874,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Willi,SL446877,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+VIGE DH1,SL446878,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,GACAT,-,A,-,T,-,-,-,T,TAGAAC,G,-,G,CTT
+
+Shengliyoucai,SL446903,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,ATTTTTTTAATTTG,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,-,T,-,-,T,C,C,T,-,TAGAAC,-,-,-,-
+
+HUGUENOT,SL446880,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,T,AAAGAACACACAAG,A,TGC,-,A,-,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,-,TCTA,AT,T,CAAGG,C,-,C,A,C,T,AGAAAAACAATT,A,GACAT,-,A,-,T,C,-,-,T,TAGAAC,G,-,G,CTT
+
+Matador,SL446828,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,TT,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TAGAAC,-,C,-,-
+
+Cabernet,SL446886,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,*,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Catana,SL446890,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Quinta,SL446901,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,GACAT,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,T,C,C,T,*,TAGAAC,*,*,*,*
+ , ,-,-,-,-,ATTTTTTTAATTTG,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dimension,SL446892,T,AAAGAACACACAAG,A,TGC,*,A,*,G,A,ATCTATTATA,AT,*,C,C,A,CATAAATATTTGA,CAAACACG,A,T,A,A,G,T,GGAAAAAAG,G,*,TCTA,AT,T,CAAGG,C,*,C,A,C,T,AGAAAAACAATT,A,*,T,*,*,*,*,C,T,*,*,*,*,*,*
+ , ,-,AAAGACACACAAG,-,-,-,-,A,-,-,-,-,GACAT,-,-,-,-,-,-,-,-,-,-,-,-,-,A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,TT,T,C,-,-,-,TAGAAC,-,C,-,-
+

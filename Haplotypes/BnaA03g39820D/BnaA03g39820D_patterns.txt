@@ -1,0 +1,276 @@
+Xiangyou 15:                  00000000
+                              00000000
+
+Temple:                       00000000
+                              00000000
+
+Rocket:                       00000000
+                              00000000
+
+Palmedor:                     00000000
+                              00000000
+
+Huron x Navajo:               00000000
+                              00000000
+
+Couve Nabica:                 00000000
+                              00000000
+
+Cabriolet:                    00000000
+                              00000000
+
+Taisetsu:                     00000000
+                              00000000
+
+Tribune:                      00000000
+                              00000000
+
+"POH 285, Bolko":             00000000
+                              00000000
+
+English Giant:                00000000
+                              11110110
+
+Zhongshuang II:               00000000
+                              00000000
+
+Topas:                        00000000
+                              00000000
+
+Vision:                       00000000
+                              00000000
+
+Ragged Jack:                  00000000
+                              00000000
+
+Ningyou 7:                    00000000
+                              00000000
+
+Chembre Dzagumhana:           00000000
+                              00000000
+
+Q100:                         00000000
+                              00000000
+
+Dippes:                       00000000
+                              00000000
+
+Slovenska Krajova:            00000000
+                              00000000
+
+Coriander:                    00000000
+                              00000000
+
+Aphid Resistant rape:         00000000
+                              00000000
+
+KARAT:                        00000000
+                              00000000
+
+YORK:                         00001000
+                              00001000
+
+RAFAL DH1:                    00000000
+                              00000000
+
+Eurol:                        00000000
+                              00000000
+
+Brauner schnittkohl:          00000000
+                              00000000
+
+WESTAR DH:                    00000000
+                              00000000
+
+WEIHENSTEPHANER:              00000000
+                              00000000
+
+Kromerska:                    00000000
+                              00000000
+
+Drakkar:                      00000000
+                              00000000
+
+Excalibur:                    00000000
+                              00000000
+
+CANBERRA x COURAGE DH LINE:   00000000
+                              00000000
+
+Chuanyou 2:                   00000000
+                              00000000
+
+SHANNON x WINNER DH LINE:     00000000
+                              00000000
+
+Dwarf Essex:                  00000001
+                              00000001
+
+Wilhelmsburger; Reform:       00001000
+                              00001000
+
+N02D-1952:                    00000000
+                              00000000
+
+APEX-93_5 X GINYOU_3 DH LINE: 00000000
+                              00000000
+
+LEMBKES MALCHOWER (LENORA):   00000000
+                              00000000
+
+Flash:                        00000000
+                              00000000
+
+SURPASS400-024DH:             00000000
+                              00000000
+
+Samourai:                     00000000
+                              00000000
+
+Ceska Krajova:                00000000
+                              00000000
+
+LICROWN X EXPRESS DH LINE:    00000000
+                              00000000
+
+MAZOWIECKI:                   00000000
+                              00000000
+
+MADRIGAL x RECITAL DH LINE:   00000000
+                              00000000
+
+Norin:                        00000000
+                              00001000
+
+TAPIDOR DH:                   00000000
+                              00000000
+
+Slapska Slapy:                00000000
+                              00000000
+
+Tina:                         00001000
+                              00001000
+
+Moana rape:                   00000000
+                              00000000
+
+HANSEN X GASPARD DH LINE:     00000000
+                              00000000
+
+Baltia:                       00000000
+                              00000000
+
+TANTAL:                       00000000
+                              00000000
+
+Siberische boerenkool:        00001000
+                              00001000
+
+JAUNE A COLLET VERT:          00000000
+                              00000000
+
+GROENE GRONINGER SNIJMOES:    00000000
+                              00000000
+
+JANETZKIS SCHLESISCHER:       00000000
+                              00000000
+
+MONTY-028DH:                  00000000
+                              00000000
+
+RAPID CYCLING RAPE (CrGC5):   00000000
+                              11110110
+
+SWU Chinese 1:                00000000
+                              00000000
+
+Ramses:                       00000000
+                              00000000
+
+SWU Chinese 2:                00000000
+                              11110110
+
+ERGLU:                        00000000
+                              00000000
+
+Inca x Contact:               00000000
+                              00000000
+
+KAROO-057DH:                  00000000
+                              00000000
+
+Castille:                     00000000
+                              00000000
+
+Canard:                       00000000
+                              11111110
+
+Zhouyou:                      00000000
+                              00000000
+
+STELLAR DH:                   00000000
+                              00000000
+
+CRESOR:                       00000000
+                              00000001
+
+N01D-1330:                    00000000
+                              00000000
+
+CUBS ROOT:                    00000000
+                              00000000
+
+Bienvenu:                     00000000
+                              00000000
+
+Abukame Natane:               00000000
+                              00000000
+
+HELIOS:                       00000000
+                              00000000
+
+Liho:                         00000000
+                              00000000
+
+Bronowski:                    00000000
+                              00000000
+
+SENSATION NZ:                 00000000
+                              00000000
+
+Lesira:                       00000000
+                              00000000
+
+Altasweet:                    00001000
+                              00001000
+
+Duplo:                        00000000
+                              00000000
+
+Willi:                        00000000
+                              00000000
+
+VIGE DH1:                     00001000
+                              00001000
+
+Shengliyoucai:                00000000
+                              00000000
+
+HUGUENOT:                     00000000
+                              00001000
+
+Matador:                      00000000
+                              00000000
+
+Cabernet:                     00001000
+                              00001000
+
+Catana:                       00000000
+                              00000000
+
+Quinta:                       00000000
+                              00000000
+
+Dimension:                    00000000
+                              00000000
+

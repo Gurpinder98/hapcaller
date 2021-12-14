@@ -1,0 +1,281 @@
+ , ,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586,LK034586
+POS, ,17387,17506,17662,18694,18717,18725,18851,18891,18919,18936,18957,19087
+TYPE, ,snp,snp,del;ins,snp,snp,ins,snp,complex,snp,snp,snp,snp
+REF, ,C,CG,GTCTCTCTCTCTCTCTCTCTTCTCC,T,C,ATTTTTTTTTGTTGAA,G,TAAG,C,C,AG,T
+
+Xiangyou 15,SL446907,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Temple,SL446904,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Rocket,SL446902,*,CC,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,-
+
+Palmedor,SL446899,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,AT,-
+
+Huron x Navajo,SL446896,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Couve Nabica,SL446842,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Cabriolet,SL446888,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Taisetsu,SL446837,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Tribune,SL446876,*,*,*,*,*,*,*,.,.,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,.,.,.,.,.
+
+"POH 285, Bolko",SL446900,G,CC,*,G,G,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTCTCTTCTCC,-,-,ATTTTTTTTTTGTTGAA,-,-,A,-,-,.
+
+English Giant,SL446836,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,ATTTTTTTTTTGTTGAA,-,-,-,-,-,.
+
+Zhongshuang II,SL446908,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,-,-,.
+
+Topas,SL446875,G,CC,*,G,G,ATTTTTTTTTTGTTGAA,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,A,T,-,.
+
+Vision,SL446905,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,ATTTTTTTTTTGTTGAA,-,-,-,-,-,.
+
+Ragged Jack,SL446843,*,CC,*,*,*,*,*,*,*,*,.,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,A,-,.,-
+
+Ningyou 7,SL446898,*,CC,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,T,-,-
+
+Chembre Dzagumhana,SL446841,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,.,.
+
+Q100,SL446838,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+Dippes,SL446826,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Slovenska Krajova,SL446831,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,-,-,-,-,-,-,-,.,.,.
+
+Coriander,SL446825,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+Aphid Resistant rape,SL446834,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,G
+
+KARAT,SL446857,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,G,CC,GTCTCTCTCTCTCTCTCTCTCTTCTCC,G,G,ATTTTTTTTTTGTTGAA,A,TAAAT,A,T,.,.
+
+YORK,SL446887,*,*,*,*,*,*,*,*,*,.,.,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,.,.,-
+
+RAFAL DH1,SL446813,*,CC,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,A,TAAAT,-,T,-,-
+
+Eurol,SL446815,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Brauner schnittkohl,SL446839,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,-,-,T,-,-
+
+WESTAR DH,SL446855,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+WEIHENSTEPHANER,SL446869,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Kromerska,SL446827,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Drakkar,SL446853,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,-
+
+Excalibur,SL446893,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,.,.,.
+
+CANBERRA x COURAGE DH LINE,SL446810,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Chuanyou 2,SL446891,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+SHANNON x WINNER DH LINE,SL446819,*,*,*,.,.,.,A,TAAAT,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTCTCTTCTCC,.,.,.,-,-,-,.,.,.
+
+Dwarf Essex,SL446835,*,CC,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,A,TAAAT,-,T,-,-
+
+Wilhelmsburger; Reform,SL446885,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,.,.
+
+N02D-1952,SL446861,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+APEX-93_5 X GINYOU_3 DH LINE,SL446808,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+LEMBKES MALCHOWER (LENORA),SL446821,*,*,*,*,*,*,*,*,*,*,AT,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Flash,SL446894,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,AT,.
+
+SURPASS400-024DH,SL446863,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Samourai,SL446823,*,CC,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,.,.,.
+
+Ceska Krajova,SL446872,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-
+
+LICROWN X EXPRESS DH LINE,SL446817,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+MAZOWIECKI,SL446867,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,.,.,.
+
+MADRIGAL x RECITAL DH LINE,SL446812,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,-
+
+Norin,SL446822,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,-
+
+TAPIDOR DH,SL446814,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,AT,.
+
+Slapska Slapy,SL446845,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+Tina,SL446883,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Moana rape,SL446833,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+HANSEN X GASPARD DH LINE,SL446811,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+Baltia,SL446824,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+TANTAL,SL446868,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,-,-,-,-,.
+
+Siberische boerenkool,SL446844,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,.,.,.
+
+JAUNE A COLLET VERT,SL446879,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,AT,.
+
+GROENE GRONINGER SNIJMOES,SL446847,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,AT,.
+
+JANETZKIS SCHLESISCHER,SL446820,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+MONTY-028DH,SL446859,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+RAPID CYCLING RAPE (CrGC5),SL446848,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,.
+
+SWU Chinese 1,SL446849,*,CC,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,-,-
+
+Ramses,SL446830,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,AT,.
+
+SWU Chinese 2,SL446850,*,CC,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,.,.
+
+ERGLU,SL446865,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Inca x Contact,SL446897,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+KAROO-057DH,SL446858,*,CC,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Castille,SL446889,*,*,*,*,*,*,*,*,*,*,AT,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Canard,SL446832,*,*,*,*,*,*,*,.,.,.,.,.
+ , ,-,-,-,-,-,-,-,.,.,.,.,.
+
+Zhouyou,SL446852,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,CC,-,-,-,-,-,-,-,-,-,-
+
+STELLAR DH,SL446854,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+CRESOR,SL446856,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,-,-,-,-,-,-,-,-,AT,.
+
+N01D-1330,SL446860,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,.,.,.
+
+CUBS ROOT,SL446864,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,.,.,.
+
+Bienvenu,SL446809,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Abukame Natane,SL446846,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+HELIOS,SL446866,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,-,-,-,-,-,-,-,-,.,.
+
+Liho,SL446870,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,.,.
+
+Bronowski,SL446871,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+SENSATION NZ,SL446881,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Lesira,SL446816,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,A,TAAAT,-,T,.,.
+
+Altasweet,SL446882,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Duplo,SL446874,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,-
+
+Willi,SL446877,*,*,*,*,*,*,*,.,.,.,.,.
+ , ,-,-,-,-,-,-,-,.,.,.,.,.
+
+VIGE DH1,SL446878,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,.,.
+
+Shengliyoucai,SL446903,*,*,*,*,*,*,*,.,.,.,.,.
+ , ,-,CC,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,.,.,.,.,.
+
+HUGUENOT,SL446880,*,*,*,*,*,*,*,*,*,*,*,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Matador,SL446828,*,*,*,*,*,*,*,*,*,*,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,TAAAT,-,T,.,.
+
+Cabernet,SL446886,*,*,*,*,*,*,.,.,.,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,ATTTTTTTTTTGTTGAA,.,.,.,.,.,.
+
+Catana,SL446890,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+
+Quinta,SL446901,*,*,*,*,*,*,*,*,*,.,.,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,.,.,.
+
+Dimension,SL446892,*,*,*,*,*,*,*,*,*,*,AT,.
+ , ,-,-,GTCTCTCTCTCTCTCTCTTCTCC,-,-,-,-,-,-,-,-,.
+

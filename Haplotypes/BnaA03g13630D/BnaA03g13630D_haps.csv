@@ -1,0 +1,281 @@
+ , ,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838,LK031838
+POS, ,1636657,1636665,1636717,1636743,1636750,1636992,1637067,1637133,1637168,1637210,1637446,1637839,1637895,1638118,1638124,1638135,1638251,1638264,1638312,1638398,1638408,1638439,1638517,1638575,1638588,1638593,1638603,1638635,1638645,1638702,1638715,1638724,1638822,1638847,1639006,1639063,1639132,1639301,1639341,1639393,1639427,1639540,1639667,1639682,1639831,1639838,1639878,1639921,1639989,1640021,1640130,1640495,1640526,1640620,1640701,1640776,1640841,1640843,1640879,1640900,1640906,1640989,1641074,1641109,1641296,1641354
+TYPE, ,snp,complex,snp,ins,snp,snp,snp,snp,snp,snp,ins,del,ins;ins,snp,snp,snp,snp,snp,snp,snp,snp,snp,ins;ins;ins,del,snp,snp,snp,complex,complex,snp,snp,snp,snp,snp,snp,mnp,snp,snp,snp,snp,ins,snp,snp,snp,del,snp,snp,ins,snp,snp,snp,complex,snp,ins;del;del;ins,ins,snp,snp,snp,snp,snp,snp,snp,complex,snp,ins,snp
+REF, ,A,CGGAG,A,ATTATAG,G,T,T,A,G,G,CTTATATATATATAC,TTGTGAAAT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAACTAATACAACAC,G,G,C,G,T,C,A,A,C,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAACATGT,GAAAAACT,A,A,A,GAC,GCTCTC,A,A,C,C,C,A,TT,T,A,T,G,GTTCC,G,A,A,GAATC,C,A,ATC,G,G,A,TATGCACA,A,CTATATATATATATATATATGTATG,CTTAA,C,T,A,C,G,G,T,GAAAAAAAAACGAAGAAAAT,T,CAAAAAAATAAGAGAG,T
+
+Xiangyou 15,SL446907,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,T,T,T,-,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,-,TG,T,CTATATATATATATATG,CTTTAA,T,G,G,A,T,A,C,GAAAAAAAAGGAAGAAAAT,C,-,C
+
+Temple,SL446904,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Rocket,SL446902,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Palmedor,SL446899,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Huron x Navajo,SL446896,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Couve Nabica,SL446842,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,A,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,AA,*,C,C,A,GTTTCC,C,T,T,GATC,T,C,*,C,T,*,TG,T,CTATATATATATATATATGTATG,CTTTAA,*,*,G,A,T,A,C,GAAAAAAAAGGAAGAAAAT,C,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Cabriolet,SL446888,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Taisetsu,SL446837,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CTATATATATATATATATATATGTATG,*,*,*,*,*,*,*,*,*,*,CAAAAAAAATAAGAGAG,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Tribune,SL446876,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,G,AA,C,-,-,-,-,-,-,-,-,-,-,-,-,T,C,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+"POH 285, Bolko",SL446900,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+English Giant,SL446836,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Zhongshuang II,SL446908,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,*,*,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,T,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,A,T,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,C,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,C,T,-,-,-,CTATATATATATATATATGTATG,-,T,G,-,A,-,-,-,-,-,-,-
+
+Topas,SL446875,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CTATATATATATATATATATATGTATG,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Vision,SL446905,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Ragged Jack,SL446843,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Ningyou 7,SL446898,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,*,*,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,T,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,A,T,A,C,T,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,-,G,C,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,C,T,-,-,-,-,-,T,G,-,-,-,-,-,-,-,-,-
+
+Chembre Dzagumhana,SL446841,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Q100,SL446838,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dippes,SL446826,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Slovenska Krajova,SL446831,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAAAAAAAATAAGAGAG,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Coriander,SL446825,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Aphid Resistant rape,SL446834,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+KARAT,SL446857,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,T,-,-,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,-,-,T,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,C,-,-,-,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,-,-,CTATATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+YORK,SL446887,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,A,T,A,C,-,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,A,-,-,-,-,-,-,-
+
+RAFAL DH1,SL446813,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Eurol,SL446815,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Brauner schnittkohl,SL446839,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+WESTAR DH,SL446855,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+WEIHENSTEPHANER,SL446869,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Kromerska,SL446827,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CTATATATATATATATATATATGTATG,*,*,*,*,*,*,*,*,*,*,CAAAAAAAATAAGAGAG,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Drakkar,SL446853,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Excalibur,SL446893,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+CANBERRA x COURAGE DH LINE,SL446810,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Chuanyou 2,SL446891,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+SHANNON x WINNER DH LINE,SL446819,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dwarf Essex,SL446835,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Wilhelmsburger; Reform,SL446885,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,A,T,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,-,-,-,-,-,-,-,-
+
+N02D-1952,SL446861,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+APEX-93_5 X GINYOU_3 DH LINE,SL446808,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,A,*,*,*,*,T,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,*,TG,T,CTATATATATATATATG,CTTTAA,*,*,G,A,T,A,C,GAAAAAAAAGGAAGAAAAT,C,*,C
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+LEMBKES MALCHOWER (LENORA),SL446821,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Flash,SL446894,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+SURPASS400-024DH,SL446863,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Samourai,SL446823,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,G,T,T,-,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,-,-,T,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,C,-,-,-,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Ceska Krajova,SL446872,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+LICROWN X EXPRESS DH LINE,SL446817,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+MAZOWIECKI,SL446867,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,A,-,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,A,-,-,-,-,-,-,-
+
+MADRIGAL x RECITAL DH LINE,SL446812,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Norin,SL446822,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+TAPIDOR DH,SL446814,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,G,-,T,T,T,-,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,-,TG,T,CTATATATATATATATG,CTTTAA,-,-,G,A,T,A,C,GAAAAAAAAGGAAGAAAAT,C,-,C
+
+Slapska Slapy,SL446845,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Tina,SL446883,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Moana rape,SL446833,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAAAAAAAATAAGAGAG,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+HANSEN X GASPARD DH LINE,SL446811,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Baltia,SL446824,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,G,-,T,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,A,-,-,-,-,T,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,T,T,-,-,-,C,C,A,-,-,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+TANTAL,SL446868,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Siberische boerenkool,SL446844,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+JAUNE A COLLET VERT,SL446879,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,T,-,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,-,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,G,-,-,-,-,-,-,-,-,-
+
+GROENE GRONINGER SNIJMOES,SL446847,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+JANETZKIS SCHLESISCHER,SL446820,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+MONTY-028DH,SL446859,*,*,*,*,*,*,*,T,*,*,CTTTTATATATATATAC,TT,*,A,*,*,*,*,T,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,C,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+RAPID CYCLING RAPE (CrGC5),SL446848,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+SWU Chinese 1,SL446849,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,*,*,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,T,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,C,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,C,T,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,-,-,-,-,-,-,-,-
+
+Ramses,SL446830,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAAAAAAAATAAGAGAG,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+SWU Chinese 2,SL446850,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,A,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,-,-,A,G,T,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,T,T,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,G,C,T,T,T,G,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,C,TG,T,CTATATATATATATATG,CTTTAA,-,G,G,A,T,A,C,GAAAAAAAAGGAAGAAAAT,C,-,C
+
+ERGLU,SL446865,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Inca x Contact,SL446897,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+KAROO-057DH,SL446858,*,*,*,*,*,*,*,T,*,*,CTTTTATATATATATAC,TT,*,A,*,*,*,*,T,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,C,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Castille,SL446889,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Canard,SL446832,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Zhouyou,SL446852,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,T,T,C,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,AAG,-,G,C,T,T,T,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,-,-,-,-,T,G,-,A,-,-,-,-,-,-,-
+
+STELLAR DH,SL446854,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+CRESOR,SL446856,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+N01D-1330,SL446860,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+CUBS ROOT,SL446864,*,*,*,*,*,*,*,*,*,*,CTTTTATATATATATAC,TT,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,*,*,C,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,T,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,A,T,A,C,T,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,C,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,C,T,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,-,-,-,-,-,-,-,-
+
+Bienvenu,SL446809,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Abukame Natane,SL446846,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+HELIOS,SL446866,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Liho,SL446870,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Bronowski,SL446871,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+SENSATION NZ,SL446881,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,G,-,-,-,-,-,-,-,-,-
+
+Lesira,SL446816,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,T,-,-,CTTTTATATATATATAC,TT,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,A,-,-,-,-,T,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,C,-,-,-,G,AA,C,C,C,A,GTTTCC,C,T,T,GATC,T,C,ATTC,C,T,C,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Altasweet,SL446882,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Duplo,SL446874,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Willi,SL446877,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CTATATATATATATATATATATGTATG,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+VIGE DH1,SL446878,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,A,T,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,G,-,-,-,-,-,-,-,-,-
+
+Shengliyoucai,SL446903,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,T,G,G,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,G,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,A,-,-,-,-,-,-,-
+
+HUGUENOT,SL446880,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,G,-,T,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
+Matador,SL446828,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Cabernet,SL446886,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,T,TGGAT,T,ATTTATAG,C,A,G,-,T,C,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,A,C,-,T,G,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,GAAAACT,T,G,C,AAG,ACTCGA,-,-,T,T,T,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATATATGTATG,-,T,G,-,-,-,-,-,-,-,-,-
+
+Catana,SL446890,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,CTATATATATATATATATGTATG,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Quinta,SL446901,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+
+Dimension,SL446892,*,*,*,*,*,*,*,*,*,*,*,*,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAACTAATACAACAC,*,*,*,*,*,*,*,*,*,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAACATGT,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+ , ,-,-,-,-,-,-,-,-,-,-,-,-,GAAACTAATACAACAATTGTGCCAAAAAAAAAAAAAAACTAATACAACAC,-,-,-,-,-,-,-,-,-,CAACATGTGTTTACATTATAGTTCAAAAAAAAAAAAAACATGT,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,CTATATATATATATATATGTATG,-,-,-,-,-,-,-,-,-,-,-,-
+
